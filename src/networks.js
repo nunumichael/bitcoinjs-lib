@@ -1,8 +1,8 @@
 'use strict';
 Object.defineProperty(exports, '__esModule', { value: true });
 exports.bitcoin = {
-  messagePrefix: '\x18Butkoin Signed Message:\n',
-  bech32: 'butk',
+  messagePrefix: '\x18Xazab Signed Message:\n',
+  bech32: 'xazab',
   bip32: {
     public: 0x0488b21e,
     private: 0x0488ade4,
